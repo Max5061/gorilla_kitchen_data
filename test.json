@@ -3,7 +3,7 @@
     "name": "Test Recipe 1",
     "category": "chinese",
     "video": "2KX9oHimX3Q",
-    "picture: "",
+    "picture: "2KX9oHimX3Q",
     "ingredients": [
       "Ingredient 1",
       "Ingredient 2",
@@ -16,7 +16,7 @@
     "name": "Test Recipe 2",
     "category": "italian",
     "video": "2KX9oHimX3Q",
-    "picture: "",
+    "picture: "2KX9oHimX3Q",
     "ingredients": [
       "Ingredient 1",
       "Ingredient 2",
@@ -28,7 +28,7 @@
     "name": "Test Recipe 3",
     "category": "italian",
     "video": "2KX9oHimX3Q",
-    "picture: "",
+    "picture: "2KX9oHimX3Q",
     "ingredients": [
       "Ingredient 1",
       "Ingredient 2",
@@ -42,7 +42,7 @@
     "name": "Test Recipe 4",
     "category": "american",
     "video": "2KX9oHimX3Q",
-    "picture: "",
+    "picture: "2KX9oHimX3Q",
     "ingredients": [
       "Ingredient 1",
       "Ingredient 2",
