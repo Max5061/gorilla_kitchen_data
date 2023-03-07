@@ -1,97 +1,256 @@
 [
   {
-    "name": "Test Recipe 1",
-    "category": "Chinese",
+    "name": [
+      "Test Recipe 1",
+      "Test Rezept 1"
+    ],
+    "category": [
+      "Chinese",
+      "Chinesisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 2",
-    "category": "Italian",
+    "name": [
+      "Test Recipe 2",
+      "Test Rezept 2"
+    ],
+    "category": [
+      "Italian",
+      "Italienisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 3",
-    "category": "Italian",
+    "name": [
+      "Test Recipe 3",
+      "Test Rezept 3"
+    ],
+    "category": [
+      "Italian",
+      "Italienisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4",
-      "Ingredient 5"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ],
+      [
+        "Ingredient 5",
+        "Zutat 5"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 4",
-    "category": "American",
+    "name": [
+      "Test Recipe 4",
+      "Test Rezept 4"
+    ],
+    "category": [
+      "American",
+      "Amerikanisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4",
-      "Ingredient 5"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ],
+      [
+        "Ingredient 5",
+        "Zutat 5"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 5",
-    "category": "American",
+    "name": [
+      "Test Recipe 5",
+      "Test Rezept 5"
+    ],
+    "category": [
+      "American",
+      "Amerikanisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4",
-      "Ingredient 5"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ],
+      [
+        "Ingredient 5",
+        "Zutat 5"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 6",
-    "category": "Mexican",
+    "name": [
+      "Test Recipe 6",
+      "Test Rezept 6"
+    ],
+    "category": [
+      "Mexican",
+      "Mexikanisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   },
   {
-    "name": "Test Recipe 7",
-    "category": "Indian",
+    "name": [
+      "Test Recipe 7",
+      "Test Rezept 7"
+    ],
+    "category": [
+      "Indian",
+      "Indisch"
+    ],
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
-      "Ingredient 1",
-      "Ingredient 2",
-      "Ingredient 3",
-      "Ingredient 4",
-      "Ingredient 5",
-      "Ingredient 6"
+      [
+        "Ingredient 1",
+        "Zutat 1"
       ],
-    "description": "Description how to cook"
+      [
+        "Ingredient 2",
+        "Zutat 2"
+      ],
+      [
+        "Ingredient 3",
+        "Zutat 3"
+      ],
+      [
+        "Ingredient 4",
+        "Zutat 4"
+      ],
+      [
+        "Ingredient 5",
+        "Zutat 5"
+      ],
+      [
+        "Ingredient 6",
+        "Zutat 6"
+      ]
+      ],
+    "description": [
+      "Description how to cook",
+      "Beschreibung zur Zubereitung"
+    ]
   }
 ]
