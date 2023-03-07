@@ -1,7 +1,7 @@
 [
   {
     "name": "Test Recipe 1",
-    "category": "chinese",
+    "category": "Chinese",
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
@@ -10,11 +10,11 @@
       "Ingredient 3",
       "Ingredient 4"
       ],
-    "description": "Text how to cook"
+    "description": "Description how to cook"
   },
   {
     "name": "Test Recipe 2",
-    "category": "italian",
+    "category": "Italian",
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
@@ -22,11 +22,11 @@
       "Ingredient 2",
       "Ingredient 3"
       ],
-    "description": "Text how to cook"
+    "description": "Description how to cook"
   },
   {
     "name": "Test Recipe 3",
-    "category": "italian",
+    "category": "Italian",
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
@@ -36,11 +36,11 @@
       "Ingredient 4",
       "Ingredient 5"
       ],
-    "description": "Text how to cook"
+    "description": "Description how to cook"
   },
   {
     "name": "Test Recipe 4",
-    "category": "american",
+    "category": "American",
     "video": "2KX9oHimX3Q",
     "picture": "2KX9oHimX3Q",
     "ingredients": [
@@ -50,6 +50,48 @@
       "Ingredient 4",
       "Ingredient 5"
       ],
-    "description": "Text how to cook"
-  }
+    "description": "Description how to cook"
+  },
+{
+    "name": "Test Recipe 5",
+    "category": "American",
+    "video": "2KX9oHimX3Q",
+    "picture": "2KX9oHimX3Q",
+    "ingredients": [
+      "Ingredient 1",
+      "Ingredient 2",
+      "Ingredient 3",
+      "Ingredient 4",
+      "Ingredient 5"
+      ],
+    "description": "Description how to cook"
+  },
+{
+    "name": "Test Recipe 6",
+    "category": "Mexican",
+    "video": "2KX9oHimX3Q",
+    "picture": "2KX9oHimX3Q",
+    "ingredients": [
+      "Ingredient 1",
+      "Ingredient 2",
+      "Ingredient 3",
+      "Ingredient 4"
+      ],
+    "description": "Description how to cook"
+  },
+{
+    "name": "Test Recipe 7",
+    "category": "Indian",
+    "video": "2KX9oHimX3Q",
+    "picture": "2KX9oHimX3Q",
+    "ingredients": [
+      "Ingredient 1",
+      "Ingredient 2",
+      "Ingredient 3",
+      "Ingredient 4",
+      "Ingredient 5",
+      "Ingredient 6",
+      ],
+    "description": "Description how to cook"
+  },
 ]
