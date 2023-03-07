@@ -52,7 +52,7 @@
       ],
     "description": "Description how to cook"
   },
-{
+  {
     "name": "Test Recipe 5",
     "category": "American",
     "video": "2KX9oHimX3Q",
@@ -66,7 +66,7 @@
       ],
     "description": "Description how to cook"
   },
-{
+  {
     "name": "Test Recipe 6",
     "category": "Mexican",
     "video": "2KX9oHimX3Q",
@@ -79,7 +79,7 @@
       ],
     "description": "Description how to cook"
   },
-{
+  {
     "name": "Test Recipe 7",
     "category": "Indian",
     "video": "2KX9oHimX3Q",
@@ -93,5 +93,5 @@
       "Ingredient 6",
       ],
     "description": "Description how to cook"
-  },
+  }
 ]
